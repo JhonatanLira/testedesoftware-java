@@ -26,4 +26,5 @@ public class PessoaTest {
         Pessoa joao = new Pessoa("João",LocalDate.now());
         Assertions.assertFalse(joao.eMaiorDeIdade());
     }
+
 }
