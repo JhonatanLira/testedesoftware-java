@@ -1,19 +1,19 @@
 ## Teste De Software
-<table border =1 >
+<table border =2 >
   <tr>
-    <td>1</td>
-    <td>Hello World JUnit</td>
+    <th>1</th>
+    <th>Hello World JUnit</th>
   </tr>
   <tr>
-    <td>2</td>
-    <td>O básico para testar</td>
+    <th>2</th>
+    <th>O básico para testar</th>
   </tr>
   <tr>
-    <td>3</td>
-    <td>Mais algumas asserções</td>
+    <th>3</th>
+    <th>Mais algumas asserções</th>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
+    <th></th>
+    <th></th>
   </tr>
 </table>
