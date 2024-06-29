@@ -13,7 +13,15 @@
     <th>Mais algumas asserções</th>
   </tr>
     <tr>
-    <th></th>
-    <th></th>
+	<th>4</th>
+    <th>After e Before</th>
   </tr>
+  <tr>
+	<th>5</th>
+  <th>Assumptions e Testes condicionais</th>
+  </tr>
+  <tr>
+	<th>6</th>
+  <th></th>
+      </tr>
 </table>
