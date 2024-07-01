@@ -22,6 +22,6 @@
   </tr>
   <tr>
 	<th>6</th>
-  <th></th>
+  <th>Testando exceptions</th>
       </tr>
 </table>
