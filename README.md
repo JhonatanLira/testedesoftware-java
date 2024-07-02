@@ -18,10 +18,14 @@
   </tr>
   <tr>
 	<th>5</th>
-  <th>Assumptions e Testes condicionais</th>
+    <th>Assumptions e Testes condicionais</th>
   </tr>
   <tr>
-	<th>6</th>
-  <th>Testando exceptions</th>
-      </tr>
+    <th>6</th>
+    <th>Testando exceptions</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
 </table>
