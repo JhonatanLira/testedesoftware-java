@@ -1,11 +1,10 @@
 package one.digitalinnovation.junit;
 
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Assumptions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.condition.*;
 
-public class ConsicionaisTeste {
+public class CondicionaisTeste {
 
     @Test
     @EnabledForJreRange(min = JRE.JAVA_8, max = JRE.JAVA_17)
