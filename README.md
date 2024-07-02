@@ -25,7 +25,7 @@
     <th>Testando exceptions</th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+    <th>7</th>
+    <th>Ordenando Testes</th>
   </tr>
 </table>
